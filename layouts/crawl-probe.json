@@ -1,9 +1,0 @@
-{
-  "id": "root",
-  "type": "column",
-  "children": [
-    { "id": "tabs", "type": "block", "size": { "px": 38 }, "window_drag": true, "content": { "mod": "tabs" } },
-    { "id": "main", "type": "block", "content": { "tab": "active" } },
-    { "id": "probe", "type": "block", "size": { "px": 28 }, "content": { "mod": "crawl-probe" } }
-  ]
-}
